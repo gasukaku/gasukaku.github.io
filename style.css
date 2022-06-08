@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&family=Noto+Sans+JP:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@500&family=Noto+Sans+JP:wght@300&display=swap');
 @charset "utf-8";
 * {
     font-family: 'Noto Sans JP', sans-serif;
@@ -6,8 +6,8 @@
     text-align:center;
 }
    a {
-   /* text-decoration: none; */
-    color: #696969; 
+  text-decoration: none;
+    color: blue; 
 }
 hr {
   color:#696969  ;

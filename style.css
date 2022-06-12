@@ -14,7 +14,7 @@ hr {
   box-align:0px;
   width:50%;
 }
-header{
+#header{
 
 background-color:coral;
 width:100%;
@@ -22,3 +22,6 @@ height:4em;
 text-align:center;
 }
 
+#header {
+ font-size:20px;   
+}

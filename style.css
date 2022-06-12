@@ -4,7 +4,9 @@
     font-family: 'Noto Sans JP', sans-serif;
     color: #696969; 
     text-align:center;
-margin: 0　
+}
+body {
+    margin: 0;
 }
    a {
   text-decoration: none;
